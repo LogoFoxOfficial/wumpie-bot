@@ -1,5 +1,5 @@
 # Wumpie Discord Bot
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This page is under construction
 {% endhint %}
