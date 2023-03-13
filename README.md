@@ -1,4 +1,4 @@
-# Wumpie Discord Bot
+# 🏠 Home
 
 {% hint style="danger" %}
 This page is under construction
